@@ -1,1 +1,1 @@
-# grx-token
+# Gold Reward Token
